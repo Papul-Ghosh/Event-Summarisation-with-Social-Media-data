@@ -1,0 +1,73 @@
+# The overall sentiment ranges from -1 through +1,,,,,
+,,,,,
+#considering 10 Clusters:,,,,,
+  Cluster id  ,  Average  ,  Min  ,  Max  ,  SD  ,  Tweet  
+1,0.000769643,-0.1531,0.2023,0.038331904,‰ÏÁ #Israel #JPOST: WATCH: IDF field hospital opens doors in earthquake-ravaged Nepal http://t.co/MlB4upmZqt
+2,0.604831034,0.3818,0.7579,0.101950864,RT @narendramodi: Received a call from Pujya Morari Bapu. He has donated Rs. 51 lakh for relief work in Nepal. My deepest gratitude to him.
+3,-0.68062,-0.8527,-0.5267,0.105863521,"Our teams report that the most needed items are food, shelter, pain killers, antibiotics and stretchers.åÊ#NepalQuake http://t.co/5neAEBCf5p"
+4,-0.604158333,-0.8126,-0.3818,0.147177021,Fatboy asked why pray for #Nepal yet God who could have stopped the catastrophe didn't do nothing about it? it's a good Qn huh!!
+5,0.403243243,0.2263,0.5859,0.08794458,Dhungana family moved from Nepal 7 mnth ago. Family are okay but an orphan who lived with them is not. #cbcwdr http://t.co/izx7kUHCP2
+6,-0.203376923,-0.3182,0.0258,0.10112588,#NepalQuake At this stage Dirco says it has no confirmed reports - but is working round the clock to find any affected South Africans. EC
+7,0.004345455,-0.1531,0.25,0.127607714,Great initiative in the time of crisis ‡_ãD https://t.co/dAgAcOpAuL
+8,-0.344907692,-0.4588,-0.2263,0.077003652,"RT @Ac_in_quest: Massive block of Earth‰Ûªs crust, 75 miles long &amp; 37 miles wide, lurched 10 feet to south Saturday over course of 30 seconds‰Û_"
+9,0.797148276,0.5859,0.9001,0.084787169,If this d best #SoulVultures can pin GOI &amp; Modi on 4 #NepalQuakeRelief @rupasubramanya I am really proud of my Gov. https://t.co/N5iQ3QEL0n
+10,-0.5595,-0.836,-0.3612,0.11884045,RT @nytimes: Nepal's government is only gradually getting a grasp of destruction in the worst-hit villages http://t.co/DzHvwGV2uO
+,,,,,
+,,,,,
+,,,,,
+#considering 20 Clusters:,,,,,
+  Cluster id  ,  Average  ,  Min  ,  Max  ,  SD  ,  Tweet  
+1,-0.739666667,-0.8442,-0.6124,0.076456376,RT @501Awani: [LATEST] Nepal Quake: Avalanche killed 22 so far and 167 mountaineers still reported missing at Mount Everest - Indian Army O‰Û_
+2,0,0,0,0,RT @IsraelandStufff: Photo Album: #Israel‰Ûªs Medical Assistance in #Nepal Begins  First humanitarian mission aircraft has landed in... http:‰Û_
+3,0.631409091,0.5106,0.7845,0.075659929,RT @hstapanghosh: US Pastor Tony Miano suggestS Nepalis should not rebuild their 'pagan shrines' http://t.co/VrrGV7lnp3 BRIGHT EXAMPLE OF P‰Û_
+4,0.493775,0.3818,0.5859,0.10760438,"Dear Pakistan, are out of your mind? http://t.co/gMmjrE4n3b"
+5,-0.32905,-0.4404,-0.1779,0.117819877,"Choppers ferry injured in Nepal; new mudslide hits village: GORKHA, Nepal (AP) ‰ÛÓ Helicopters cri... http://t.co/cwncd7EXic &lt;--Full Story"
+6,0.80835,0.6369,0.8979,0.120363187,"Yes I agree ""a selfless service"". a learning for others.  https://t.co/j7yEY4nU5I"
+7,0.655422222,0.34,0.8176,0.141106812,Shared via NBC News for Windows Phone 8 http://t.co/kaRVoDpEYb
+8,0.500238462,0.296,0.7003,0.111900116,There are miracles everyday! #proudofindianforces https://t.co/9gIPGyY8Rx
+9,-0.485533333,-0.5574,-0.4404,0.062914651,"RT @Ac_in_quest: Massive block of Earth‰Ûªs crust, 75 miles long &amp; 37 miles wide, lurched 10 feet to south Saturday over course of 30 seconds‰Û_"
+10,-0.21652,-0.3182,0,0.111655898,@timesofindia @meaindia :Not only Indians but who ever wants shelter from Nepal migrants to be kept in rehabilitation camps.
+11,-0.585966667,-0.7003,-0.4939,0.056195412,Americans Desperately Wait for Word From Nepal: The catastrophic earthquake over the weekend took out power and phone service for who...
+12,0.249285714,0.0258,0.3612,0.11724701,Dhungana family moved from Nepal 7 mnth ago. Family are okay but an orphan who lived with them is not. #cbcwdr http://t.co/izx7kUHCP2
+13,-0.474057143,-0.6492,-0.3818,0.089911676,Fatboy asked why pray for #Nepal yet God who could have stopped the catastrophe didn't do nothing about it? it's a good Qn huh!!
+14,0.8327375,0.7506,0.9001,0.050585965,RT @PatOndabak: IRONY ALERT: Harper Govt claims credit for actions of charities like Red Cross &amp; World Vision... as they audit charities #N‰Û_
+15,-0.29780625,-0.4939,-0.1027,0.128141721,@RanvirShorey location of Vipul in nepal. Vipul died in Nepal. Need help to get his body back to mumbai http://t.co/sS3QsjV50z
+16,-0.00315,-0.1531,0.1027,0.047489044,@Babu_Bhaiyaa @Dec3rd_q  Act as frnd in time of trouble. frnd can wipe tear. But India isn't mother of Nepal. Sovereign cntrs r equal.
+17,0.463768421,0.3612,0.7003,0.071596617,Everyone let's help out @CrawfordCollins ‰ÏÜ‰ÏÜ‰ÏÜ‰ÏÜ  ‰_Á https://t.co/BNWueSjqaa ‰ÂÉ   To donate ‰_Á‰_Á‰_Á‰_Á‰_Á‰_Á https://t.co/xivUtSzZZs  ‡__C
+18,-0.760858333,-0.8527,-0.6124,0.076055261,Anyone else find it obscene that two guys punching each other in the head attracts a $300million pay day while the people of Nepal starve?
+19,0.169025,-0.0258,0.3818,0.136614794,"RT @RobTatumMMA: It's easy to get caught in the #MMA bubble, but the shit that's happening in Nepal and Baltimore is way more important tha‰Û_"
+20,-0.015013793,-0.1531,0,0.040750309,"PlanGlobal: Watch PlanGlobal davtox on CNN in ten minutes, discussing #NepalEarthquake and Plan's response from the stranded plane to Kathm‰Û_"
+,,,,,
+,,,,,
+#considering 30 Clusters:,,,,,
+  Cluster id  ,  Average  ,  Min  ,  Max  ,  SD  ,  Tweet  
+1,0,0,0,0,RT @eoiktmnp: Buses leaving for Gorakhpur carrying stranded Indians from Tilganga bridge near Kathmandu Intl Airport @MEAIndia http://t.co/‰Û_
+2,0.457711111,0.2263,0.5859,0.106350346,RT @hstapanghosh: US Pastor Tony Miano suggestS Nepalis should not rebuild their 'pagan shrines' http://t.co/VrrGV7lnp3 BRIGHT EXAMPLE OF P‰Û_
+3,-0.7604,-0.8527,-0.5574,0.084819903,#NepalQuakeRelief  Serious logistical problem. Ineffectiveness of the government and dirty politics C K Lal next http://t.co/G5ZAaLJrZs
+4,-0.5567,-0.6597,-0.4767,0.093642939,RT @one_by_two: I dont know if Modi will win next general elections in India - but he will definitely win in Nepal's next elections
+5,0.7675,0.7096,0.8176,0.03290623,RT @narendramodi: Received a call from Pujya Morari Bapu. He has donated Rs. 51 lakh for relief work in Nepal. My deepest gratitude to him.
+6,0.786445455,0.5859,0.9001,0.09546762,There are miracles everyday! #proudofindianforces https://t.co/9gIPGyY8Rx
+7,-0.34486,-0.4767,-0.25,0.083768598,I have latest photos of damaged area of World Heritage Site #Nepal. Any media or organization want those?Plz contact #earthquake #Nepalquake
+8,-0.749233333,-0.8442,-0.6739,0.06590744,((Noticias SIN)) The Latest on Nepal Quake: Thousands Try to Leave Kathmandu: Thousands line up at bus stations in Kathmandu in bid t...
+9,0.49273,0.296,0.7003,0.126314775,RT @BBCSanjoyM: Indian Air Force C130 Hercules and Globemaster aircraft on their way to Nepal carrying relief material says MoD #NepalEarth‰Û_
+10,-0.09534,-0.296,0.1027,0.123567347,"RT @RobTatumMMA: It's easy to get caught in the #MMA bubble, but the shit that's happening in Nepal and Baltimore is way more important tha‰Û_"
+11,-0.042285714,-0.296,0,0.111877484,"‰ªÇ Just Announced: Ko Phangan, Thailand - Apr 30 at Nepal Fundraiser @ Leela Beach http://t.co/Fq3xj4lpqm"
+12,-0.012836364,-0.3182,0.2023,0.129342694,RT @CMOfficeUP: '@UPGovt is sending 25 buses today for evacuation in Nepal.More buses will be sent as demand arises'- #UPCM @yadavakhilesh
+13,-0.504825,-0.6249,-0.4019,0.079032918,"Choppers ferry injured in Nepal; new mudslide hits village: GORKHA, Nepal (AP) ‰ÛÓ Helicopters cri... http://t.co/cwncd7EXic &lt;--Full Story"
+14,-0.050766667,-0.2732,0.0258,0.112349627,#RG fishing for votes politicking on #LAB when world is helping #NepalEarthquake victims! This completes Congis' disconnect! #RGPunjabVisit
+15,-0.451522222,-0.6249,-0.2263,0.142963324,@BritishRedCross I've donated financially to the #NepalQuake Disaster Fund but also have clothes &amp; blankets to give. Are u accepting those?
+16,0.241171429,0.0772,0.4404,0.122252317,Gay families retrieved from Nepal quake zone; Northern Ireland rejects gay marriage again; Supreme Court begins... http://t.co/Ed9VK5UhhL
+17,0.36643,0.25,0.4767,0.071901894,"@mallabipin Hi Bipin,BMO has made donation to the Nepal relief efforts and clients can donate to the Red Cross at their local BMO branch.^TO"
+18,-0.145455556,-0.296,0,0.10268453,#NepalQuake At this stage Dirco says it has no confirmed reports - but is working round the clock to find any affected South Africans. EC
+19,0,0,0,0,"@Libishski front page in all the states news papers, even trending on social media everywhere above Nepal. What a world huh?"
+20,0.46118,0.34,0.6486,0.11828997,Phones jammed in Nepal. Thankfully for Whatsapp for communicating messages!
+21,-0.502914286,-0.802,-0.2023,0.190358762,"Big B expresses shock over Nepal quake, reminisces ‰Û÷Mahaan‰Ûª shoot http://t.co/BsWEi98sdr http://t.co/prVRIPMAE3 #OnlySalmanKhan1"
+22,-0.605,-0.7003,-0.5267,0.052949788,Americans Desperately Wait for Word From Nepal: The catastrophic earthquake over the weekend took out power and phone service for who...
+23,-0.004690909,-0.0516,0,0.015557985,General from Bharat with Nepal...  Heartening to see Vikramjit Sahney &amp; Manjit Singh come out and contribute to... http://t.co/Bvbp3wJVLf
+24,0.89195,0.886,0.8979,0.008414571,"Heartfelt prayers, support and healing love being sent to all, in Nepal. http://t.co/Iki2a96yiJ"
+25,0,0,0,0,"‰ÛÏI came to know about Earthquake through Modi twitter account while in Bangkok airport. We called Nepal and got updates regularly"" Koirala"
+26,0.49864,0.4404,0.5994,0.060226763,"Earthquakes are soooo funny! Nepal quake reveals our ‰Û÷mean girl‰Ûª social media avatars Sitting in a cab in Mumbai, ‰Û_ http://t.co/jQGM0IAd6o"
+27,0.53132,0.3818,0.7351,0.109217396,"RT @LiaqatAli2015: 32/48 everybody will become Jesus Christ. In this scenario of the Awaited One Gohar Shahi blessing humanity, I wanted to‰Û_"
+28,0.642081818,0.4404,0.8126,0.106469722,"@SundusRasheed I have sent you a message on Facebook along with Devina Shrestha, my contact in Nepal. Kindly respond. They are waiting.."
+29,-0.443475,-0.4939,-0.3818,0.051424014,I cried yesterday ‡_¢D https://t.co/Hi8768fqUg
+30,-0.618171429,-0.8126,-0.4019,0.130888282,Fatboy asked why pray for #Nepal yet God who could have stopped the catastrophe didn't do nothing about it? it's a good Qn huh!!
